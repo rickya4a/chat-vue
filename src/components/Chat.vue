@@ -36,7 +36,7 @@ export default {
       user: '',
       message: '',
       messages: [],
-      socket : io('192.168.91.36:3001')
+      socket : io('http://103.233.109.131:3001')
     }
   },
   methods: {
